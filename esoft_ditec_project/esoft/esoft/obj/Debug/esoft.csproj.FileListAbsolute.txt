@@ -1,0 +1,17 @@
+E:\user\esoft\esoft\bin\Debug\esoft.exe.config
+E:\user\esoft\esoft\bin\Debug\esoft.exe
+E:\user\esoft\esoft\bin\Debug\esoft.pdb
+E:\user\esoft\esoft\obj\Debug\esoft.csprojResolveAssemblyReference.cache
+E:\user\esoft\esoft\obj\Debug\esoft.Form1.resources
+E:\user\esoft\esoft\obj\Debug\esoft.Properties.Resources.resources
+E:\user\esoft\esoft\obj\Debug\esoft.csproj.GenerateResource.Cache
+E:\user\esoft\esoft\obj\Debug\esoft.exe
+E:\user\esoft\esoft\obj\Debug\esoft.pdb
+E:\user\esoft\esoft\bin\Debug\MySql.Data.dll
+E:\user\esoft\esoft\bin\Debug\Google.Protobuf.dll
+E:\user\esoft\esoft\bin\Debug\MySql.Data.xml
+E:\user\esoft\esoft\obj\Debug\esoft.Form2.resources
+E:\user\esoft\esoft\obj\Debug\esoft.Form3.resources
+C:\Users\Hasitha\Desktop\Malith\esoft\esoft\bin\Debug\esoft.exe.config
+C:\Users\Hasitha\Desktop\Malith\esoft\esoft\obj\Debug\esoft.exe
+C:\Users\Hasitha\Desktop\Malith\esoft\esoft\obj\Debug\esoft.pdb
